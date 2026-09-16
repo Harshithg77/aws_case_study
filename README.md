@@ -1,10 +1,6 @@
 # Highly Available, Multi-Tier Cloud-Native Application on AWS
 ### (Design & Deployment using the AWS Well-Architected Framework)
 
-**Name:** [Your Name]
-**Roll Number:** [Your Roll Number]
-**GitHub Repository (PUBLIC):** [PASTE YOUR PUBLIC GITHUB LINK HERE]
-
 ---
 
 ## 1. Project Overview
@@ -37,15 +33,13 @@ Cost Optimization, Sustainability) is documented in `Case_Study_Report/`.
 ## 3. Prerequisites
 
 - An AWS account (Free Tier / trial credit is sufficient)
-- AWS CLI installed and configured (`aws configure`) — [only if you provide CLI/IaC deployment steps below]
-- [List any language runtimes your Source_Code needs, e.g. Node.js 18+, Python 3.10+]
+- AWS CLI installed and configured (`aws configure`) 
 - Git
 
 ---
 
 ## 4. Setup & Deployment Instructions
 
-> Replace this section with the exact steps you followed. A suggested outline:
 
 1. Clone this repository:
    ```
@@ -74,7 +68,7 @@ Cost Optimization, Sustainability) is documented in `Case_Study_Report/`.
 
 1. Once deployed, open the ALB's DNS name in a browser:
    `http://<your-alb-dns-name>.elb.amazonaws.com`
-2. [Describe what the user should see / how to use the app]
+
 
 ---
 
@@ -118,4 +112,4 @@ RollNumber_YourName/
 
 ## 9. Author
 
-[Your Name] — [Your Roll Number] — [KIET Group of Institutions]
+[Harshit Gupta] — [2400290120111] — [KIET Group of Institutions]
